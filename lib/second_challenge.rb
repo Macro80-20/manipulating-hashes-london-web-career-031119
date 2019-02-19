@@ -12,8 +12,4 @@ groceries.values
   #code your solution here!
 end
 
-n = 2
-
-n = 2+2
-
   binding.pry
